@@ -5,7 +5,7 @@
 {
 	printf("Hola mundo\n");
 	getch();
-	printf("Jorge Herrera\n");
+	printf("Este es mi segundo codigo\n");
 	getch();
 	printf("Voy a compartir el codigo con mi compañero\n");
 	getch();
