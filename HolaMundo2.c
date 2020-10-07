@@ -12,5 +12,6 @@
 	system("cls");
 	printf("Hola mundo\n");
 	getch();
+	printf("Mauricio Hernandez");
 	return 0;	
 }
